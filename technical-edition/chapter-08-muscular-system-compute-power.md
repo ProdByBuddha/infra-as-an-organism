@@ -2539,3 +2539,18 @@ In this chapter, we built a scalable compute infrastructure:
 Chapter 9 explores **The Skeletal System (Infrastructure as Code)** - how to define and manage your entire infrastructure with code, enabling reproducibility, version control, and automation.
 
 Ready to build infrastructure that's as easy to manage as writing code? Let's go! 🦴🚀
+
+---
+
+## Apex Compute Practices
+
+Achieve hyperscale-grade muscle memory with these patterns:
+
+- **Kubernetes Foundation** — Run managed control planes (EKS/GKE/AKS) or upstream clusters with Cluster API, and let Karpenter or Cluster Autoscaler match compute supply to demand within seconds.
+- **Event-Driven Scaling** — Combine KEDA for workload-based triggers, Argo Workflows for batch DAGs, and Temporal/Cadence for stateful, durable workflows that survive process restarts.
+- **Specialized Workloads** — Use NVIDIA GPU Operator, Intel Device Plugins, or Habana SynapseAI for accelerators; schedule ML and batch pipelines with Kubeflow, Ray, or Volcano for gang-scheduling awareness.
+- **Edge & Hybrid Execution** — Extend workloads to the edge with k3s or MicroK8s plus Fleet or OpenYurt, and burst into the cloud via Virtual Kubelet or Azure Container Apps when local resources peak.
+- **Performance & Cost Feedback** — Instrument with Kepler/eBPF for energy telemetry, feed data into Cast AI or StormForge for rightsizing, and enforce budgets using AWS Compute Optimizer or GCP Recommender integrations.
+- **Operational Safety Nets** — Layer on Kyverno/OPA policies for resource quotas, use PriorityClasses + PodDisruptionBudgets to protect critical services, and rehearse chaos via Litmus or ChaosMesh to verify resilience.
+
+This stack delivers elastic, efficient compute that flexes automatically as your organism responds to demand.
