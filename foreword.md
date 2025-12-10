@@ -110,8 +110,6 @@ To **Laurence McCarthy**, **Rondell Boston**, **Rene Turcios**, and **Trevor Mar
 
 To **Nexus Network**, for seeing the potential before it was obvious.
 
-To **Eternal Zion**, for providing not just collaboration but the space to ideate, to experiment, to fail, to learn, and to create resources like this book. Your trust in my rapid application of knowledge gave me room to prove what's possible.
-
 To **Ken Thomas**, who introduced me to Transformers architecture in October 2022 and sparked the curiosity that became this journey.
 
 To **every language model** that patiently answered my 3 AM questions, generated code examples, and helped me understand concepts I'd never been formally taught.
